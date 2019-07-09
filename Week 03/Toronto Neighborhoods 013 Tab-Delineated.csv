@@ -1,0 +1,210 @@
+	PostalCode	Borough	Neighborhood	URL	Title	Latitude	Longitude
+0	M3A	North York	Parkwoods	/wiki/Parkwoods	Parkwoods, Toronto, Ontario	43.68657452246789	-79.40999250225033
+1	M4A	North York	Victoria Village	/wiki/Victoria_Village	Victoria Village, Toronto, Ontario	43.731540000000045	-79.31427999999994
+2	M5A	Downtown Toronto	Regent Park	/wiki/Regent_Park	Regent Park, Toronto, Ontario	43.660690000000045	-79.36030999999997
+3	M6A	North York	Lawrence Heights	/wiki/Lawrence_Heights	Lawrence Heights, Toronto, Ontario	43.723570000000045	-79.43710999999995
+4	M6A	North York	Lawrence Manor	/wiki/Lawrence_Manor	Lawrence Manor, Toronto, Ontario	43.722920000000045	-79.43130999999994
+5	M7A	Queen's Park	Queen's Park	/wiki/Queen%27s_Park_(Toronto)	Queen's Park, Toronto, Ontario	43.66253000000007	-79.39016999999996
+6	M9A	Etobicoke	Islington Avenue	/wiki/Islington_Avenue	Islington Avenue, Toronto, Ontario	43.72268716806422	-79.55868864345608
+7	M1B	Scarborough	Rouge	/wiki/Rouge,_Toronto	Rouge, Toronto, Ontario	43.807660000000055	-79.17404999999997
+8	M1B	Scarborough	Malvern	/wiki/Malvern,_Toronto	Malvern, Toronto, Ontario	43.809770000000064	-79.22083999999995
+9	M3B	North York	Don Mills North	/wiki/North_York	North York, Toronto, Ontario	43.69933894721208	-79.3377225
+10	M4B	East York	Woodbine Gardens	/wiki/Woodbine_Gardens	Woodbine Gardens, Toronto, Ontario	43.70557000000008	-79.30058999999993
+11	M4B	East York	Parkview Hill	/wiki/Parkview_Hill	Parkview Hill, Toronto, Ontario	43.70464000000004	-79.32266999999995
+12	M5B	Downtown Toronto	Ryerson	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.64882869366225	-79.40248581053244
+13	M5B	Downtown Toronto	Garden District	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.657940000000046	-79.37561999999997
+14	M6B	North York	Glencairn	/wiki/North_York	North York, Toronto, Ontario	43.71327128066915	-79.42463037732348
+15	M9B	Etobicoke	Cloverdale	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.63015349209183	-79.55614470880101
+16	M9B	Etobicoke	Islington	/wiki/Islington,_Toronto	Islington, Toronto, Ontario	43.72268716806422	-79.55868864345608
+17	M9B	Etobicoke	Martin Grove	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.74317082249074	-79.59481176960723
+18	M9B	Etobicoke	Princess Gardens	/wiki/Princess_Gardens	Princess Gardens, Toronto, Ontario	43.77174840243864	-79.39734723170909
+19	M9B	Etobicoke	West Deane Park	/wiki/West_Deane_Park	West Deane Park, Toronto, Ontario	43.65297000000004	-79.55741999999998
+20	M1C	Scarborough	Highland Creek	/wiki/Highland_Creek_(Toronto)	Highland Creek, Toronto, Ontario	43.78948000000002	-79.17613999999998
+21	M1C	Scarborough	Rouge Hill	/wiki/Rouge_Hill	Rouge Hill, Toronto, Ontario	43.78716000000003	-79.13251999999993
+22	M1C	Scarborough	Port Union	/wiki/Port_Union,_Toronto	Port Union, Toronto, Ontario	43.778970000000065	-79.13108999999997
+23	M3C	North York	Flemingdon Park	/wiki/Flemingdon_Park	Flemingdon Park, Toronto, Ontario	43.71631000000008	-79.33170999999999
+24	M3C	North York	Don Mills South	/wiki/North_York	North York, Toronto, Ontario	43.69933894721208	-79.3377225
+25	M4C	East York	Woodbine Heights	/wiki/Woodbine_Heights	Woodbine Heights, Toronto, Ontario	43.68752000000007	-79.32058999999998
+26	M5C	Downtown Toronto	St. James Town	/wiki/St._James_Town	St. James Town, Toronto, Ontario	43.670810000000074	-79.37347999999997
+27	M6C	York	Humewood-Cedarvale	/wiki/Humewood-Cedarvale	Humewood-Cedarvale, Toronto, Ontario	43.68942000000004	-79.42697999999996
+28	M9C	Etobicoke	Bloordale Gardens	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.63250000000005	-79.57038999999997
+29	M9C	Etobicoke	Eringate	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.66168860147452	-79.57826308322319
+30	M9C	Etobicoke	Markland Wood	/wiki/Markland_Wood	Markland Wood, Toronto, Ontario	43.633910000000064	-79.56947999999993
+31	M9C	Etobicoke	Old Burnhamthorpe	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.64349362020268	-79.57990269254545
+32	M1E	Scarborough	Guildwood	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.74953000000005	-79.18991999999997
+33	M1E	Scarborough	Morningside	/wiki/Morningside,_Toronto	Morningside, Toronto, Ontario	43.782550000000064	-79.20522999999997
+34	M1E	Scarborough	West Hill	/wiki/West_Hill,_Toronto	West Hill, Toronto, Ontario	43.76343000000003	-79.17819999999995
+35	M4E	East Toronto	The Beaches	/wiki/The_Beaches	The Beaches, Toronto, Ontario	43.67413000000005	-79.29643999999995
+36	M5E	Downtown Toronto	Berczy Park	/wiki/Berczy_Park	Berczy Park, Toronto, Ontario	43.648299933925934	-79.37524996335624
+37	M6E	York	Caledonia-Fairbanks		, Toronto, Ontario	43.68857000000003	-79.45482999999996
+38	M1G	Scarborough	Woburn	/wiki/Woburn,_Toronto	Woburn, Toronto, Ontario	43.76730000000003	-79.22822999999994
+39	M4G	East York	Leaside	/wiki/Leaside	Leaside, Toronto, Ontario	43.70023937855272	-79.3510651247247
+40	M5G	Downtown Toronto	Central Bay Street	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.67140453386777	-79.39019911048253
+41	M6G	Downtown Toronto	Christie	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.67301585710074	-79.42208044860641
+42	M2H	North York	Hillcrest Village	/wiki/Hillcrest_Village	Hillcrest Village, Toronto, Ontario	43.803030000000035	-79.35345999999998
+43	M3H	North York	Bathurst Manor	/wiki/Bathurst_Manor	Bathurst Manor, Toronto, Ontario	43.76378000000005	-79.45476999999994
+44	M3H	North York	Downsview North	/wiki/North_York	North York, Toronto, Ontario	43.720189518788395	-79.49991483674016
+45	M3H	North York	Wilson Heights	/wiki/Wilson_Heights,_Toronto	Wilson Heights, Toronto, Ontario	43.737330000000036	-79.43440999999996
+46	M4H	East York	Thorncliffe Park	/wiki/Thorncliffe_Park	Thorncliffe Park, Toronto, Ontario	43.70732000000004	-79.34352999999999
+47	M5H	Downtown Toronto	Adelaide	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.6450905	-79.40162025
+48	M5H	Downtown Toronto	King	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.706306895928535	-79.51435484350158
+49	M5H	Downtown Toronto	Richmond	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.64544610909	-79.40864762680705
+50	M6H	West Toronto	Dovercourt Village	/wiki/Dovercourt_Village	Dovercourt Village, Toronto, Ontario	43.66396916829618	-79.43036119458887
+51	M6H	West Toronto	Dufferin	/wiki/West_Toronto	West Toronto, Toronto, Ontario	43.69184908156719	-79.44866548516069
+52	M1J	Scarborough	Scarborough Village	/wiki/Scarborough_Village	Scarborough Village, Toronto, Ontario	43.73852000000005	-79.21691999999996
+53	M2J	North York	Fairview	/wiki/North_York	North York, Toronto, Ontario	43.661169292728815	-79.47670900203676
+54	M2J	North York	Henry Farm	/wiki/Henry_Farm	Henry Farm, Toronto, Ontario	43.77230000000003	-79.34086999999994
+55	M2J	North York	Oriole	/wiki/North_York	North York, Toronto, Ontario	43.69364257834618	-79.4018117559737
+56	M3J	North York	Northwood Park	/wiki/Northwood_Park	Northwood Park, Toronto, Ontario	43.742660000000065	-79.49636999999996
+57	M3J	North York	York University	/wiki/York_University	York University, Toronto, Ontario	43.77170000000007	-79.49862999999993
+58	M4J	East York	East Toronto	/wiki/East_Toronto	East Toronto, Toronto, Ontario	43.79019284319802	-79.13558730334614
+59	M5J	Downtown Toronto	Harbourfront East	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.639509955566034	-79.38315993782102
+60	M5J	Downtown Toronto	Toronto Islands	/wiki/Toronto_Islands	Toronto Islands, Toronto, Ontario	43.62103006996925	-79.37714996220241
+61	M5J	Downtown Toronto	Union Station	/wiki/Union_Station_(Toronto)	Union Station, Toronto, Ontario	43.64565997778303	-79.38036993060764
+62	M6J	West Toronto	Little Portugal	/wiki/Little_Portugal,_Toronto	Little Portugal, Toronto, Ontario	43.64748000000003	-79.42902999999995
+63	M6J	West Toronto	Trinity	/wiki/Trinity%E2%80%93Bellwoods	Trinity–Bellwoods, Toronto, Ontario	43.65422658431076	-79.38155673522722
+64	M1K	Scarborough	East Birchmount Park	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.781445823199604	-79.29834871270408
+65	M1K	Scarborough	Ionview	/wiki/Ionview	Ionview, Toronto, Ontario	43.73629000000005	-79.27319999999997
+66	M1K	Scarborough	Kennedy Park	/wiki/Kennedy_Park,_Toronto	Kennedy Park, Toronto, Ontario	43.725870000000036	-79.26231999999997
+67	M2K	North York	Bayview Village	/wiki/Bayview_Village	Bayview Village, Toronto, Ontario	43.777100000000075	-79.37956999999993
+68	M3K	North York	CFB Toronto	/wiki/CFB_Toronto	CFB Toronto, Toronto, Ontario	43.648690000000045	-79.38543999999995
+69	M3K	North York	Downsview East	/wiki/North_York	North York, Toronto, Ontario	43.720189518788395	-79.49991483674016
+70	M4K	East Toronto	The Danforth West	/wiki/East_Toronto	East Toronto, Toronto, Ontario	43.690666256230834	-79.29079862604712
+71	M4K	East Toronto	Riverdale	/wiki/Riverdale,_Toronto	Riverdale, Toronto, Ontario	43.673230000000046	-79.34120999999998
+72	M5K	Downtown Toronto	Design Exchange	/wiki/Design_Exchange	Design Exchange, Toronto, Ontario	43.648189956142986	-79.38011000447203
+73	M5K	Downtown Toronto	Toronto Dominion Centre	/wiki/Toronto_Dominion_Centre	Toronto Dominion Centre, Toronto, Ontario	43.6468581148579	-79.3819539093776
+74	M6K	West Toronto	Brockton	/wiki/West_Toronto	West Toronto, Toronto, Ontario	43.64876343096865	-79.43448394859772
+75	M6K	West Toronto	Exhibition Place	/wiki/Exhibition_Place	Exhibition Place, Toronto, Ontario	43.634030000000045	-79.41181999999998
+76	M6K	West Toronto	Parkdale Village	/wiki/Parkdale_Village	Parkdale Village, Toronto, Ontario	43.641321258583886	-79.45143624689817
+77	M1L	Scarborough	Clairlea	/wiki/Clairlea	Clairlea, Toronto, Ontario	43.71682000000004	-79.29959999999993
+78	M1L	Scarborough	Golden Mile	/wiki/Golden_Mile,_Toronto	Golden Mile, Toronto, Ontario	43.725990000000074	-79.28326999999996
+79	M1L	Scarborough	Oakridge	/wiki/Oakridge,_Toronto	Oakridge, Toronto, Ontario	43.69883000000005	-79.27911999999998
+80	M2L	North York	Silver Hills	/wiki/North_York	North York, Toronto, Ontario	43.75763000000007	-79.37118999999996
+81	M2L	North York	York Mills	/wiki/York_Mills	York Mills, Toronto, Ontario	43.74647516020779	-79.39161667241902
+82	M3L	North York	Downsview West	/wiki/Downsview	Downsview, Toronto, Ontario	43.720189518788395	-79.49991483674016
+83	M4L	East Toronto	The Beaches West	/wiki/East_Toronto	East Toronto, Toronto, Ontario	43.67413000000005	-79.29643999999995
+84	M4L	East Toronto	India Bazaar	/wiki/India_Bazaar	India Bazaar, Toronto, Ontario	43.73828005496566	-79.56572992224046
+85	M5L	Downtown Toronto	Commerce Court	/wiki/Commerce_Court	Commerce Court, Toronto, Ontario	43.64887950000002	-79.37913375
+86	M5L	Downtown Toronto	Victoria Hotel	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.65454998167821	-79.3788700333255
+87	M6L	North York	Downsview	/wiki/Downsview,_Toronto	Downsview, Toronto, Ontario	43.720189518788395	-79.49991483674016
+88	M6L	North York	North Park	/wiki/North_York	North York, Toronto, Ontario	43.72097000000008	-79.47552999999994
+89	M6L	North York	Upwood Park	/wiki/North_York	North York, Toronto, Ontario	43.70684205678648	-79.50003095873149
+90	M9L	North York	Humber Summit	/wiki/Humber_Summit	Humber Summit, Toronto, Ontario	43.76016000000004	-79.55848999999995
+91	M1M	Scarborough	Cliffcrest	/wiki/Cliffcrest	Cliffcrest, Toronto, Ontario	43.726420000000076	-79.23296999999997
+92	M1M	Scarborough	Cliffside	/wiki/Cliffside,_Toronto	Cliffside, Toronto, Ontario	43.703802515604366	-79.25063973450567
+93	M1M	Scarborough	Scarborough Village West	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.73852000000005	-79.21691999999996
+94	M2M	North York	Newtonbrook	/wiki/Newtonbrook	Newtonbrook, Toronto, Ontario	43.787300000000066	-79.40982999999993
+95	M2M	North York	Willowdale	/wiki/Willowdale,_Toronto	Willowdale, Toronto, Ontario	43.78227000000004	-79.42812999999995
+96	M3M	North York	Downsview Central	/wiki/North_York	North York, Toronto, Ontario	43.720189518788395	-79.49991483674016
+97	M4M	East Toronto	Studio District	/wiki/East_Toronto	East Toronto, Toronto, Ontario	43.648690000000045	-79.38543999999995
+98	M5M	North York	Bedford Park	/wiki/Bedford_Park,_Toronto	Bedford Park, Toronto, Ontario	43.72830000000005	-79.39917999999993
+99	M5M	North York	Lawrence Manor East	/wiki/North_York	North York, Toronto, Ontario	43.77955909786817	-79.13688378895377
+100	M6M	York	Del Ray	/wiki/York,_Toronto	York, Toronto, Ontario	43.70234000000005	-79.48040999999995
+101	M6M	York	Keelesdale	/wiki/Keelesdale	Keelesdale, Toronto, Ontario	43.700110000000045	-79.48290999999995
+102	M6M	York	Mount Dennis	/wiki/Mount_Dennis	Mount Dennis, Toronto, Ontario	43.689100000000046	-79.49551999999993
+103	M6M	York	Silverthorn	/wiki/Silverthorn,_Toronto	Silverthorn, Toronto, Ontario	43.68633948285267	-79.46653970391235
+104	M9M	North York	Emery	/wiki/Emery,_Toronto	Emery, Toronto, Ontario	43.75314000000003	-79.53616999999997
+105	M9M	North York	Humberlea	/wiki/Humberlea	Humberlea, Toronto, Ontario	43.721510000000066	-79.53400999999997
+106	M1N	Scarborough	Birch Cliff	/wiki/Birch_Cliff	Birch Cliff, Toronto, Ontario	43.68436000000003	-79.27589999999998
+107	M1N	Scarborough	Cliffside West	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.703802515604366	-79.25063973450567
+108	M2N	North York	Willowdale South	/wiki/North_York	North York, Toronto, Ontario	43.790316352208656	-79.41083153756662
+109	M3N	North York	Downsview Northwest	/wiki/North_York	North York, Toronto, Ontario	43.720189518788395	-79.49991483674016
+110	M4N	Central Toronto	Lawrence Park	/wiki/Lawrence_Park,_Toronto	Lawrence Park, Toronto, Ontario	43.725540000000066	-79.40231999999997
+111	M5N	Central Toronto	Roselawn	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.701597173644345	-79.44419167518936
+112	M6N	York	The Junction North	/wiki/York,_Toronto	York, Toronto, Ontario	43.668315146838225	-79.46365962265506
+113	M9N	York	Weston	/wiki/Weston,_Toronto	Weston, Toronto, Ontario	43.70435000000003	-79.50936999999998
+114	M1P	Scarborough	Dorset Park	/wiki/Dorset_Park	Dorset Park, Toronto, Ontario	43.755330000000065	-79.27745999999995
+115	M1P	Scarborough	Scarborough Town Centre	/wiki/Scarborough_Town_Centre	Scarborough Town Centre, Toronto, Ontario	43.77559000000008	-79.26070999999995
+116	M1P	Scarborough	Wexford Heights	/wiki/Wexford_Heights	Wexford Heights, Toronto, Ontario	43.737040000000036	-79.27693999999997
+117	M2P	North York	York Mills West	/wiki/North_York	North York, Toronto, Ontario	43.74647516020779	-79.39161667241902
+118	M4P	Central Toronto	Davisville North	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.70062483101036	-79.38537025162711
+119	M5P	Central Toronto	Forest Hill North	/wiki/Forest_Hill_North	Forest Hill North, Toronto, Ontario	43.70522000000005	-79.42744999999995
+120	M5P	Central Toronto	Forest Hill West	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.690482980656654	-79.40489556082156
+121	M6P	West Toronto	High Park	/wiki/High_Park	High Park, Toronto, Ontario	43.64473000000004	-79.45687999999996
+122	M6P	West Toronto	The Junction South	/wiki/West_Toronto	West Toronto, Toronto, Ontario	43.668315146838225	-79.46365962265506
+123	M9P	Etobicoke	Westmount	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.68448248699065	-79.44447860010581
+124	M1R	Scarborough	Maryvale	/wiki/Maryvale,_Toronto	Maryvale, Toronto, Ontario	43.750830000000065	-79.30768999999998
+125	M1R	Scarborough	Wexford	/wiki/Wexford,_Toronto	Wexford, Toronto, Ontario	43.75012000000004	-79.29959999999993
+126	M2R	North York	Willowdale West	/wiki/Willowdale_West	Willowdale West, Toronto, Ontario	43.770940000000046	-79.42784999999998
+127	M4R	Central Toronto	North Toronto West	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.724000000000046	-79.40197999999998
+128	M5R	Central Toronto	The Annex	/wiki/The_Annex	The Annex, Toronto, Ontario	43.665519923394356	-79.40732002611213
+129	M5R	Central Toronto	North Midtown	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.706720000000075	-79.39829999999995
+130	M5R	Central Toronto	Yorkville	/wiki/Yorkville,_Toronto	Yorkville, Toronto, Ontario	43.672250000000076	-79.38568999999995
+131	M6R	West Toronto	Parkdale	/wiki/Parkdale,_Toronto	Parkdale, Toronto, Ontario	43.63913000000008	-79.45072999999995
+132	M6R	West Toronto	Roncesvalles	/wiki/Roncesvalles,_Toronto	Roncesvalles, Toronto, Ontario	43.64427000000007	-79.44268999999997
+133	M7R	Mississauga	Canada Post Gateway Processing Centre		, Toronto, Ontario	43.648690000000045	-79.38543999999995
+134	M9R	Etobicoke	Kingsview Village	/wiki/Kingsview_Village	Kingsview Village, Toronto, Ontario	43.702510000000075	-79.57208999999995
+135	M9R	Etobicoke	Martin Grove Gardens	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.68339000000003	-79.55703999999997
+136	M9R	Etobicoke	Richview Gardens	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.680040000000076	-79.53798999999998
+137	M9R	Etobicoke	St. Phillips	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.70046000000008	-79.53122999999994
+138	M1S	Scarborough	Agincourt	/wiki/Agincourt,_Toronto	Agincourt, Toronto, Ontario	43.785980000000045	-79.28019999999998
+139	M4S	Central Toronto	Davisville	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.70175000000007	-79.38351999999998
+140	M5S	Downtown Toronto	Harbord	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.659998170319156	-79.41707935820114
+141	M5S	Downtown Toronto	University of Toronto	/wiki/University_of_Toronto	University of Toronto, Toronto, Ontario	43.66774998831461	-79.39863994503438
+142	M6S	West Toronto	Runnymede	/wiki/Runnymede,_Toronto	Runnymede, Toronto, Ontario	43.68341000000004	-79.48290999999995
+143	M6S	West Toronto	Swansea	/wiki/Swansea,_Toronto	Swansea, Toronto, Ontario	43.6394462387877	-79.47055390767747
+144	M1T	Scarborough	Clarks Corners	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.786500000000046	-79.30163999999995
+145	M1T	Scarborough	Sullivan	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.766820000000045	-79.31629999999996
+146	M1T	Scarborough	Tam O'Shanter	/wiki/Tam_O%27Shanter_%E2%80%93_Sullivan	Tam O'Shanter – Sullivan, Toronto, Ontario	43.785340000000076	-79.29832999999995
+147	M4T	Central Toronto	Moore Park	/wiki/Moore_Park,_Toronto	Moore Park, Toronto, Ontario	43.79255000000007	-79.43445999999993
+148	M4T	Central Toronto	Summerhill East	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.61186780156127	-79.48874670819669
+149	M5T	Downtown Toronto	Chinatown	/wiki/Chinatown,_Toronto	Chinatown, Toronto, Ontario	43.648690000000045	-79.38543999999995
+150	M5T	Downtown Toronto	Grange Park	/wiki/Grange_Park_(Toronto)	Grange Park, Toronto, Ontario	43.65225000000004	-79.39135999999995
+151	M5T	Downtown Toronto	Kensington Market	/wiki/Kensington_Market	Kensington Market, Toronto, Ontario	43.654320043857105	-79.40189993003072
+152	M1V	Scarborough	Agincourt North	/wiki/Agincourt_North	Agincourt North, Toronto, Ontario	43.809300000000064	-79.26706999999998
+153	M1V	Scarborough	L'Amoreaux East	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.79972993039749	-79.31003191126086
+154	M1V	Scarborough	Milliken	/wiki/Milliken,_Ontario	Milliken, Ontario, Toronto, Ontario	43.82280000000003	-79.27693999999997
+155	M1V	Scarborough	Steeles East	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.85217106141843	-79.18412524833424
+156	M4V	Central Toronto	Deer Park	/wiki/Deer_Park,_Toronto	Deer Park, Toronto, Ontario	43.677970000000066	-79.40596999999997
+157	M4V	Central Toronto	Forest Hill SE	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.68991000000005	-79.42466999999994
+158	M4V	Central Toronto	Rathnelly	/wiki/Rathnelly	Rathnelly, Toronto, Ontario	43.678730778981574	-79.40096525216684
+159	M4V	Central Toronto	South Hill	/wiki/South_Hill,_Toronto	South Hill, Toronto, Ontario	43.67651961160911	-79.37922409532919
+160	M4V	Central Toronto	Summerhill West	/wiki/Central_Toronto	Central Toronto, Toronto, Ontario	43.61186780156127	-79.48874670819669
+161	M5V	Downtown Toronto	CN Tower	/wiki/CN_Tower	CN Tower, Toronto, Ontario	43.641750000000066	-79.38652999999994
+162	M5V	Downtown Toronto	Bathurst Quay	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.635460000000066	-79.39810999999997
+163	M5V	Downtown Toronto	Island airport	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.632057620788906	-79.39597303368889
+164	M5V	Downtown Toronto	Harbourfront West	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.639509955566034	-79.38315993782102
+165	M5V	Downtown Toronto	King and Spadina	/wiki/King_and_Spadina	King and Spadina, Toronto, Ontario	43.645437	-79.3951425
+166	M5V	Downtown Toronto	Railway Lands	/wiki/Railway_Lands	Railway Lands, Toronto, Ontario	43.648690000000045	-79.38543999999995
+167	M5V	Downtown Toronto	South Niagara	/wiki/South_Niagara	South Niagara, Toronto, Ontario	43.64437155009448	-79.40897394857937
+168	M8V	Etobicoke	Humber Bay Shores	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.62686000000008	-79.47670999999997
+169	M8V	Etobicoke	Mimico South	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.61298699778067	-79.49304767739339
+170	M8V	Etobicoke	New Toronto	/wiki/New_Toronto	New Toronto, Toronto, Ontario	43.60143000000005	-79.50924999999995
+171	M9V	Etobicoke	Albion Gardens	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.69511438318284	-79.28602961898261
+172	M9V	Etobicoke	Beaumond Heights	/wiki/Beaumond_Heights	Beaumond Heights, Toronto, Ontario	43.73341000000005	-79.56630999999999
+173	M9V	Etobicoke	Humbergate	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.647615	-79.51025924999998
+174	M9V	Etobicoke	Jamestown	/wiki/Mount_Olive-Silverstone-Jamestown	Mount Olive-Silverstone-Jamestown, Toronto, Ontario	43.734165644934684	-79.58547885283019
+175	M9V	Etobicoke	Mount Olive	/wiki/Mount_Olive-Silverstone-Jamestown	Mount Olive-Silverstone-Jamestown, Toronto, Ontario	43.74707409952619	-79.59466460077368
+176	M9V	Etobicoke	Silverstone	/wiki/Silverstone,_Toronto	Silverstone, Toronto, Ontario	43.75056265829763	-79.59990083667215
+177	M9V	Etobicoke	South Steeles	/wiki/South_Steeles	South Steeles, Toronto, Ontario	43.85217106141843	-79.18412524833424
+178	M9V	Etobicoke	Thistletown	/wiki/Thistletown	Thistletown, Toronto, Ontario	43.73341000000005	-79.54960999999997
+179	M1W	Scarborough	L'Amoreaux West	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.79972993039749	-79.31003191126086
+180	M4W	Downtown Toronto	Rosedale	/wiki/Rosedale,_Toronto	Rosedale, Toronto, Ontario	43.677070000000064	-79.38897999999995
+181	M5W	Downtown Toronto	Stn A PO Boxes 25 The Esplanade	/wiki/Downtown_Toronto	Downtown Toronto, Toronto, Ontario	43.646270826245114	-79.375320294189
+182	M8W	Etobicoke	Alderwood	/wiki/Alderwood,_Toronto	Alderwood, Toronto, Ontario	43.60496000000007	-79.54115999999993
+183	M8W	Etobicoke	Long Branch	/wiki/Long_Branch,_Toronto	Long Branch, Toronto, Ontario	43.59353000000005	-79.53271999999998
+184	M9W	Etobicoke	Northwest	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.77552298296831	-79.50994207557808
+185	M1X	Scarborough	Upper Rouge	/wiki/Upper_Rouge	Upper Rouge, Toronto, Ontario	43.80926282702232	-79.18773471761729
+186	M4X	Downtown Toronto	Cabbagetown	/wiki/Cabbagetown,_Toronto	Cabbagetown, Toronto, Ontario	43.666858352081306	-79.3718674383023
+187	M5X	Downtown Toronto	First Canadian Place	/wiki/First_Canadian_Place	First Canadian Place, Toronto, Ontario	43.64826258166472	-79.38190827075974
+188	M5X	Downtown Toronto	Underground city	/wiki/Underground_city	Underground city, Toronto, Ontario	43.64958999220976	-79.38220998889145
+189	M8X	Etobicoke	The Kingsway	/wiki/The_Kingsway	The Kingsway, Toronto, Ontario	43.65060000000005	-79.50712999999995
+190	M8X	Etobicoke	Montgomery Road	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.64851403719224	-79.51791051125055
+191	M8X	Etobicoke	Old Mill North	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.64926065032861	-79.49673177761751
+192	M4Y	Downtown Toronto	Church and Wellesley	/wiki/Church_and_Wellesley	Church and Wellesley, Toronto, Ontario	43.665696	-79.38093149999997
+193	M7Y	East Toronto	Business Reply Mail Processing Centre 969 Eastern	/wiki/East_Toronto	East Toronto, Toronto, Ontario	43.66298587639285	-79.3230340476949
+194	M8Y	Etobicoke	Humber Bay	/wiki/Humber_Bay	Humber Bay, Toronto, Ontario	43.631800000000055	-79.48480999999998
+195	M8Y	Etobicoke	King's Mill Park	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.64871000000005	-79.49383999999998
+196	M8Y	Etobicoke	Kingsway Park South East	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.657364654275256	-79.50342073011126
+197	M8Y	Etobicoke	Mimico NE	/wiki/Mimico	Mimico, Toronto, Ontario	43.61729000000002	-79.49884999999995
+198	M8Y	Etobicoke	Old Mill South	/wiki/Old_Mill,_Toronto	Old Mill, Toronto, Ontario	43.64926065032861	-79.49673177761751
+199	M8Y	Etobicoke	The Queensway East	/wiki/The_Queensway	The Queensway, Toronto, Ontario	43.61989500000001	-79.53198647357847
+200	M8Y	Etobicoke	Royal York South East	/wiki/Fairmont_Royal_York_Hotel	Fairmont Royal York Hotel, Toronto, Ontario	43.60923791271163	-79.49547175101864
+201	M8Y	Etobicoke	Sunnylea	/wiki/Sunnylea	Sunnylea, Toronto, Ontario	43.643015912547426	-79.49834472198363
+202	M8Z	Etobicoke	Kingsway Park South West	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.657364654275256	-79.50342073011126
+203	M8Z	Etobicoke	Mimico NW	/wiki/Mimico	Mimico, Toronto, Ontario	43.61729000000002	-79.49884999999995
+204	M8Z	Etobicoke	The Queensway West	/wiki/The_Queensway	The Queensway, Toronto, Ontario	43.61989500000001	-79.53198647357847
+205	M8Z	Etobicoke	Royal York South West	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.60923791271163	-79.49547175101864
+206	M8Z	Etobicoke	South of Bloor	/wiki/Etobicoke	Etobicoke, Toronto, Ontario	43.64925570666113	-79.50288153197896
+207	M5A	Downtown Toronto	Harbourfront	/wiki/Harbourfront_(Toronto)	Harbourfront, Toronto, Ontario	43.63950995556604	-79.38315993782102
+208	M1H	Scarborough	Cedarbrae	/wiki/Scarborough,_Toronto	Scarborough, Toronto, Ontario	43.74772769666328	-79.23517417124674
